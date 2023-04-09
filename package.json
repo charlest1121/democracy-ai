@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/yourusername/democracy-ai-poc#readme",
   "dependencies": {
-    "next": "^latest",
+    "next": "^13.3.0",
     "react": "^latest",
     "react-dom": "^latest",
     "vercel": "^28.18.4"
