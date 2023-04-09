@@ -14,7 +14,7 @@ document.getElementById('summarize').addEventListener('click', async () => {
   });
   
   async function generateSummary(legislation) {
-    const apiKey = 'API-Key';
+    const apiKey = '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';
     const response = await fetch('https://api.openai.com/v1/engines/davinci-codex/completions', {
       method: 'POST',
       headers: {
